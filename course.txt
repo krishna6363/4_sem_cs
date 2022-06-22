@@ -2,3 +2,9 @@ welcome to CSE
 the course avilable are 
 java
 DSP
+OS
+SE
+
+
+thank you
+with regards!!!
