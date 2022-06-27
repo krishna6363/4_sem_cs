@@ -1,0 +1,6 @@
+hi 
+welcome to cse lab
+the courses available in our institution are:
+cs
+mech
+civil
